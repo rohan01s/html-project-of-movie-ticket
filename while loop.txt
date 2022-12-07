@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<h1>for loop</h1>
+<p id="p0"></p>
+<p id="p1"></p>
+<p id="p2"></p>
+<p id="p3"></p>
+<p id="p4"></p>
+
+<script>
+for (var i = 0; i < 5; i++)
+{
+document.getElementById("p" + i).innerHTML = i;
+}
+</script>
+</body>
+</html>

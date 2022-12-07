@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1> Javascript function </h1>
+<script>
+ var i=0;
+while(i<5) 
+<script>
+function showmessage() {
+ alert("this is done by function");
+}
+showmessage();
+</script>
+</body>
+</html>
